@@ -1,2 +1,2 @@
 # gimanes.github.io
-by gimanes for mrog
+you shouldnt really sneak 'round here so please dont touch this i use this as a database
